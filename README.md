@@ -1,8 +1,29 @@
-# React + Vite
+# React Responsive Navbar & SideBar Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Live Site : [https://rad-croquembouche-340643.netlify.app/](https://responsive-navbar-sidebar.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Uses Technology & Libraries
+
+### Vite React App
+
+You can learn more in the [Create Vite React App Documentation](https://vitejs.dev/guide/).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### Tailwind CSS
+
+This section has moved here: [https://tailwindcss.com](https://tailwindcss.com)
+
+
+
+## To Run This Projet In Local Host
+
+```bash
+git clone [(https://github.com/NullPointError07/React-Responsive-NavBar-SideBar)](https://github.com/NullPointError07/React-Responsive-NavBar-SideBar)
+cd React-Responsive-NavBar-SideBar
+
+npm install
+npm run dev
+```
