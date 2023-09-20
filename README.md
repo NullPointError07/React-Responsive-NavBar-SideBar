@@ -1,7 +1,7 @@
 # React Responsive Navbar & SideBar Project
 
 
-Live Site : [https://rad-croquembouche-340643.netlify.app/](https://responsive-navbar-sidebar.netlify.app/)
+Live Site : [(https://responsive-navbar-sidebar.netlify.app/)](https://responsive-navbar-sidebar.netlify.app/)
 
 ## Uses Technology & Libraries
 
